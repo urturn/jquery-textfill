@@ -1,3 +1,11 @@
+ForK NOTE
+===============
+
+
+- Remove debug that take 50% of cpu time.
+
+
+
 jQuery TextFill
 ===============
 
