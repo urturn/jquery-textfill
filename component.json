@@ -1,0 +1,8 @@
+{
+  "name": "jquery-textfill",
+  "main": "jquery-textfill.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urturn/jquery-textfill"
+  }
+}
