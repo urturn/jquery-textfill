@@ -12,6 +12,7 @@
       "url": "https://github.com/jquery-textfill/jquery-textfill/blob/master/COPYING"
     }
   ],
+  "main" : "jquery.textfill.min.js",
   "dependencies": {
     "jquery": "*"
   },
